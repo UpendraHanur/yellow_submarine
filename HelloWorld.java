@@ -2,8 +2,8 @@ class HelloWorld
 {
   public static void main(String args[])
     {
-      Sysem.out.println("Welcome to the world of DevOps");
-
+      System.out.println("Welcome to the world of DevOps");
+      System.out.println("Examples of Arithmetic Operations");
       int a = 10;
       int b = 2;
       int c = a+b;
