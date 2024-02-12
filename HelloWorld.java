@@ -14,6 +14,7 @@ class HelloWorld
       System.out.println("Multiplication of a and b is "+e);
       int f = a/b;
       System.out.println("Division of a and b is "+f);
+      System.out.println("God, please be with me always!");
     }
 }
 
